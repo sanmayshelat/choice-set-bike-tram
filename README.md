@@ -5,7 +5,8 @@ Elimination-by-aspects based choice set generation method from [1]. Implemented 
 If you use this, please cite either: 
 
 [1] Shelat, S., Cats, O., van Oort, N., & van Lint, H. (2019, June). Calibrating route choice sets for an urban public transport network using smart card data. In 2019 6th International Conference on Models and Technologies for Intelligent Transportation Systems (MT-ITS) (pp. 1-8). IEEE.
-[2] Ton, D., Shelat, S., Nijënstein, S., Rijsman, L., van Oort, N., Hoogendoorn, S., 2020. Understanding the Role of Cycling to Urban Transit Stations through a Simultaneous Access Mode and Station Choice Model. Transp. Res. Record 0, 0361198120925076.
+
+[2] Ton, D., Shelat, S., Nijënstein, S., Rijsman, L., van Oort, N., Hoogendoorn, S., 2020. Understanding the Role of Cycling to Urban Transit Stations through a Simultaneous Access Mode and Station Choice Model. Transp. Res. Record.
 
 ### Data Required ###
 
